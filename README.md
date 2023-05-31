@@ -14,13 +14,19 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Mock-Up
 
-The following video shows the functionality of the application:
+The following images shows the functionality of the application with some example notes already added:
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
+![Homepage.](/assets/mockup_01.png)
+
+![Example of an added note.](/assets/mockup_02.png)
 
 ## Bonus - Future Development
 
 As a part of future development, I will work on learn how to handle DELETE requests so the notes on the application can be deleted by the user with a click on the trash can button. 
 
+## Heroku Deployment
+
+Visit the Note Taker: https://enigmatic-beyond-86343.herokuapp.com/notes
+
 - - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. Backend developes by Maria Fernanda Marroquín Quiroga.
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. Backend developed by Maria Fernanda Marroquín Quiroga.
